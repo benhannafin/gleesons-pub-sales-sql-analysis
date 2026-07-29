@@ -89,18 +89,14 @@ gleesons-pub-sales-sql-analysis/
 
 ## 7. Key Findings
 
-> The findings below are placeholders to be completed after running the
-> queries in the `sql/` folder.
+This SQL project builds on my previous Gleesons Pub Sales Analytics Dashboard, which was created in Power BI. The Power BI dashboard used visuals, KPI cards, and slicers to explore sales performance and identify trends in the data.
 
-- **Overall performance:** _[total revenue, total profit, overall profit
-  margin]_
-- **Best-performing products:** _[top products by revenue/profit]_
-- **Best-performing categories:** _[top categories by revenue/profit]_
-- **Staff activity:** _[how transaction activity is distributed across
-  staff]_
-- **Busiest trading days:** _[which days generate the most revenue]_
-- **Busiest trading hours:** _[which hours generate the most revenue]_
-- **Profit margins:** _[highest and lowest margin products/categories]_
+This project takes the same type of analysis and applies it directly through SQL queries. Instead of using dashboard visuals, the analysis uses SQL to calculate revenue, profit, product performance, monthly trends, and profit per pint.
+
+The SQL analysis produced the same key finding as the Power BI dashboard: after Beamish was introduced, Guinness sales declined, while Beamish generated less revenue per pint. This suggested that Beamish was replacing Guinness sales rather than adding meaningful new revenue.
+
+The purpose of this SQL project is to show that the same business insight can be supported using SQL, not just dashboard visuals.
+
 
 ## 9. Screenshots
 
