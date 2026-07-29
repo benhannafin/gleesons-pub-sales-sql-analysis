@@ -108,7 +108,7 @@ gleesons-pub-sales-sql-analysis/
 ![Database Table Preview](screenshots/database_table_preview.png)
 
 ### Basic Sales Summary
-![Basic Sales Summary](screenshots/basic_sales_summary.png)
+![Basic Sales Summary](screenshots/basic_summary.png)
 
 ### Top Products by Revenue
 ![Top Products by Revenue](screenshots/top_products_by_revenue.png)
