@@ -84,8 +84,6 @@ gleesons-pub-sales-sql-analysis/
 │   ├── 06_staff_analysis.sql
 │   └── 07_profitability_analysis.sql
 ├── screenshots/                   Screenshots of query results
-├── requirements.txt                Python dependencies (standard library only)
-├── CLAUDE.md                       Project guidance for AI-assisted development
 └── README.md
 ```
 
@@ -113,18 +111,13 @@ shows.]_
 ## 10. How to Run the Project
 
 1. Clone or download this repository.
-2. (Optional) Create and activate a virtual environment.
-3. Install dependencies (standard library only — see `requirements.txt`):
-   ```
-   pip install -r requirements.txt
-   ```
-4. Build the SQLite database from the CSV:
+2. Build the SQLite database from the CSV:
    ```
    python scripts/load_data.py
    ```
    This creates `gleesons_pub_sales.db` in the project root, with the
    cleaned data loaded into a table called `pub_sales`.
-5. Run the SQL files against the database using a SQLite client of your
+3. Run the SQL files against the database using a SQLite client of your
    choice (e.g. the `sqlite3` command-line tool or DB Browser for SQLite),
    starting with `sql/01_create_table.sql` for the schema, then the
    numbered analysis files in `sql/`.
