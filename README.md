@@ -114,10 +114,7 @@ gleesons-pub-sales-sql-analysis/
 ![Top Products by Revenue](screenshots/top_products_by_revenue.png)
 
 ### Revenue by Day of Week
-![Revenue by Day of Week](screenshots/revenue_by_day_of_week.png)
-
-### Profit Margin by Product
-![Profit Margin by Product](screenshots/profit_margin_by_product.png)
+![Revenue by Day of Week](screenshots/revenue_by_day.png)
 
 ## 10. How to Run the Project
 
