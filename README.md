@@ -104,9 +104,20 @@ gleesons-pub-sales-sql-analysis/
 
 ## 9. Screenshots
 
-_[Add screenshots of query results here, e.g. from a SQLite GUI tool such
-as DB Browser for SQLite, with a short caption explaining what each one
-shows.]_
+### Database Table Preview
+![Database Table Preview](screenshots/database_table_preview.png)
+
+### Basic Sales Summary
+![Basic Sales Summary](screenshots/basic_sales_summary.png)
+
+### Top Products by Revenue
+![Top Products by Revenue](screenshots/top_products_by_revenue.png)
+
+### Revenue by Day of Week
+![Revenue by Day of Week](screenshots/revenue_by_day_of_week.png)
+
+### Profit Margin by Product
+![Profit Margin by Product](screenshots/profit_margin_by_product.png)
 
 ## 10. How to Run the Project
 
